@@ -2,6 +2,7 @@
 A movie recommendation system built using the LightFM library. It uses collaborative filtering and hybrid models to suggest personalized movies based on user preferences.
 
 **Features**
+
 Hybrid recommendation system using collaborative and content-based filtering
 Trained on the MovieLens dataset
 Uses LightFM with WARP loss for top-N ranking
