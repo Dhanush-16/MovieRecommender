@@ -18,3 +18,6 @@ Suggests movies for new users based on popular ratings
 movie recomendation to perticular user
 
 your intrest on the movive
+
+get the dataset throgh 
+https://grouplens.org/datasets/movielens/
